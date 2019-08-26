@@ -1,6 +1,6 @@
 # APS-3 :relaxed:
 
-## Exlicação sobre o trabalho :grin:
+## Explicação sobre o trabalho :grin:
 
 Bom esse a APS ( Atividades Práticas Supervisionadas ) é o trabalho semestral proposto pela faculdade, no 3° Semestre propuseram fazer um sistema parecido com o do Detran. Alguns objetivos do trabalho:
 
